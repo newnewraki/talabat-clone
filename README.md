@@ -1,10 +1,13 @@
-#talabat clone
+#healthy talabat clone to an extent
 
-#idea
-just a good tracking app for food and for everyone
+#project idea
+a simple tracker for student habits that helps a greener campus by reducing food waste and tracking daily choices
+
+#tools used
+github and simple text no advanced code
 
 #how to run
-open the link and paste through the browser
+open this repo and read the README
 
 
 #update 1 basic idea
