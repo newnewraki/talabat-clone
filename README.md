@@ -1,7 +1,7 @@
 #talabat clone
 
 #idea
-just a good tracking app for everyone
+just a good tracking app for food and for everyone
 
 #how to run
-runs on all and every phone
+open the link and paste through the browser
